@@ -5,7 +5,7 @@ import { FaXTwitter } from "react-icons/fa6";
 
 const Header = () => {
   return (
-    <div className="fixed top-0 left-0 w-full z-50 flex items-center justify-evenly border-b border-n-6 lg:bg-n-8/90 lg:backdrop-blur-sm py-5">
+    <div className="top-0 left-0 w-full z-50 flex items-center justify-evenly border-b border-n-6 lg:bg-n-8/90 lg:backdrop-blur-sm py-5">
       <Link className="block w-[12rem] xl:mr-8" href="#hero">
         <h1 className="text-3xl">DetoxifyTools</h1>
       </Link>

@@ -11,3 +11,15 @@ export const RSS_LINKS = [
     { href: 'https://twitter.com/marcosdecoa', key: 'x', label: 'x' },
   ];
 
+  export const Lessons = {
+    rustLessons: [
+      { name: "Mobile Apps", href: "mobile" },
+      { name: "Extensions", href: "extensions" },
+      { name: "Desktop Software", href: "desktop" },
+      { name: "Productivity Tools", href: "productivity" },
+      { name: "Meditation and Mindfulness", href: "meditation" },
+      { name: "Screen Time Trackers", href: "trackers" },
+      { name: "Social Media Management Tools", href: "social-media" },
+      { name: "Website Blockers", href: "blockers" },
+    ],
+  };
